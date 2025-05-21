@@ -1,11 +1,12 @@
 # Leitor de QR Code
 
-Um aplicativo web moderno para leitura e decodificação de QR Codes através da câmera ou upload de imagem.
+Um aplicativo web moderno para leitura, decodificação e criação de QR Codes através da câmera, upload de imagem ou geração personalizada.
 
 ## Características
 
 - 🔍 Escaneie QR Codes em tempo real com sua câmera
 - 📤 Faça upload de imagens contendo QR Codes
+- 🖨️ [Crie seus próprios QR Codes](https://jonathan-laco.github.io/qrcode/) de forma simples e rápida
 - 📱 Interface responsiva para desktop e dispositivos móveis
 - 🌙 Suporte a tema claro e escuro
 - 📋 Exibição detalhada dos resultados com reconhecimento de tipos (URL, email, telefone, etc.)
@@ -37,6 +38,10 @@ Um aplicativo web moderno para leitura e decodificação de QR Codes através da
 1. Clique na aba **"Upload"** (padrão)
 2. Arraste e solte uma imagem com QR Code na área demarcada, ou clique para selecionar um arquivo
 3. O sistema irá processar a imagem e exibir o resultado
+
+### Criação de QR Code
+
+- Acesse [https://jonathan-laco.github.io/qrcode/](https://jonathan-laco.github.io/qrcode/) para gerar QR Codes personalizados de forma gratuita e rápida.
 
 ### Histórico de Escaneamentos
 
